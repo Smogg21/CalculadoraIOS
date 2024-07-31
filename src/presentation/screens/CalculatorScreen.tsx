@@ -3,14 +3,16 @@ import React from 'react';
 import {View, Text} from 'react-native';
 import {colors, styles} from '../../config/theme/app-theme';
 import {CalculatorButton} from '../components/CalculatorButton';
-import {useCalculatoor} from '../hooks/useCalculatoor';
+import {useCalculator} from '../hooks/useCalculator';
 export const CalculatorScreen = () => {
-  const {number, buildNumber} = useCalculatoor();
+  const {number, buildNumber} = useCalculator();
 
   return (
     <View style={styles.calculatorContainer}>
       <View style={{paddingHorizontal: 30, paddingBottom: 20}}>
-        <Text style={styles.mainResult}>{number}</Text>
+        <Text adjustsFontSizeToFit numberOfLines={1} style={styles.mainResult}>
+          {number}
+        </Text>
         <Text style={styles.subResult}>15</Text>
       </View>
       <View style={styles.row}>
