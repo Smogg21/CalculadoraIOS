@@ -1,5 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 This App was created in order to mimic the design and functionality of the IOS calculator app. Created by Smogg21 (Salvatore) only for study/learning purposes. 
+
+
 [Click here to download the android APK](https://github.com/Smogg21/CalculadoraIOS/releases/download/1.0.0/CalculadoraIOS.apk)
 
 
