@@ -1,13 +1,14 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-This App was created in order to mimic the design and functionality of the IOS calculator app. This was done only for study/learning purposes.
-
+This App was created in order to mimic the design and functionality of the IOS calculator app. Created by Smogg21 (Salvatore) only for study/learning purposes. 
 [Click here to download the android APK](https://github.com/Smogg21/CalculadoraIOS/releases/download/1.0.0/CalculadoraIOS.apk)
 
 
 Design: 
 ![Design](images/Screenshot_20.png)
 
-# Getting Started
+If you want to edit the app/design/functionality, feel free to do so following the next steps:
+
+# Getting Started (Developers) 
 
 > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
