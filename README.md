@@ -2,7 +2,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 This App was created in order to mimic the design and functionality of the IOS calculator app. This was done only for study/learning purpouses.
 
 [Click here to download the android APK](https://github.com/Smogg21/CalculadoraIOS/releases/download/1.0.0/CalculadoraIOS.apk)
-/ln
+
+
 Design: 
 ![Design](images/Screenshot_20.png)
 
